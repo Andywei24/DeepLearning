@@ -1,2 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch model files
 *.pth
+*.pt
+*.ckpt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
 .venv/
+venv/
+ENV/
